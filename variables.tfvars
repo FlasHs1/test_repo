@@ -1,0 +1,10 @@
+region = "us-east-1"
+rds_port = 3306
+allocated_storage =  10
+engine = "mysql"
+engine_version = "8.0.15"
+db_instance_class = "db.t2.micro"
+name = "test"
+username = "test"
+password = "test"
+ec2_instance_type = "t2.micro"
